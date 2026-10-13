@@ -1,0 +1,1 @@
+"""AutoSub backend application."""
